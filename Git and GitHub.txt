@@ -1,0 +1,7 @@
+# Git is a version control tool and it is used to track the changes made
+   in different files of a project
+
+# GitHub is a website to upload the changes that are tracked by the
+   Git on the cloud or on the internet
+
+# Different platforms like GitHub are GitLab, BitBucket and more..
