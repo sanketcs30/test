@@ -2,3 +2,11 @@ Springboot is one of the most used backend framework in the IT industry
 Springboot framework can be used to develop the following applications:-
 1. Web applications
 2. Distributed applications
+3. Microservice based applications
+
+The different modules in spring are:-
+1. Spring data
+2. Spring MVC
+3. Spring REST
+4. Spring AOP
+5. Spring Batch
