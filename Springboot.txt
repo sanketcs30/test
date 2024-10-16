@@ -1,0 +1,4 @@
+Springboot is one of the most used backend framework in the IT industry
+Springboot framework can be used to develop the following applications:-
+1. Web applications
+2. Distributed applications
