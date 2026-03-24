@@ -1,4 +1,4 @@
-# Layers in springboot application
+# Layers in the springboot application
 1. Controller layer
 2. Service layer
 3. Repository/DAO layer
