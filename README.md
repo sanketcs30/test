@@ -17,6 +17,22 @@ E-commerce
         ├── UserRepository.java
         └── ProductRepository.java
 ```
+# Code
+```java
+public class Main {
+  public static void main(String args[]){
+    System.out.println("Welcome to the world of Java...");
+  }
+}
+```
+# Tables
+
+| Sr. | Country | Capital |
+|-----|---------|---------|
+| 1   | India   | Delhi   |
+| 2   | USA     | Washington |
+| 3   | Russia  | Moscow |
+| 4   | China   | Beijing |
 
 # Project Flow Diagram
 ```mermaid
@@ -34,11 +50,3 @@ sequenceDiagram
     Frontend-->>User: Login Success
 ```
 
-# Tables
-
-| Sr. | Country | Capital |
-|-----|---------|---------|
-| 1   | India   | Delhi   |
-| 2   | USA     | Washington |
-| 3   | Russia  | Moscow |
-| 4   | China   | Beijing |
