@@ -33,3 +33,12 @@ sequenceDiagram
     Backend-->>Frontend: JWT Token
     Frontend-->>User: Login Success
 ```
+
+# Tables
+
+| Sr. | Country | Capital |
+|-----|---------|---------|
+| 1   | India   | Delhi   |
+| 2   | USA     | Washington |
+| 3   | Russia  | Moscow |
+| 4   | China   | Beijing |
