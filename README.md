@@ -49,4 +49,17 @@ sequenceDiagram
     Backend-->>Frontend: JWT Token
     Frontend-->>User: Login Success
 ```
-
+# New Project Structure
+```
+test/
+├── controller/
+│   └── EmployeeController.java
+├── Git and GitHub.txt
+├── HelloWorld.java
+├── index.html
+├── README.md
+├── Springboot.txt
+├── Test.txt
+├── Test1.txt
+└── Welcome.java
+```
